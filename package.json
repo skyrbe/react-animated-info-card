@@ -1,6 +1,6 @@
 {
   "name": "react-animated-info-card",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React component which can animate a card open on click",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
